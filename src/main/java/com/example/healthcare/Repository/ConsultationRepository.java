@@ -1,5 +1,6 @@
 package com.example.healthcare.Repository;
-
-public class ConsultationRepository {
+import org.springframework.stereotype.Repository;
+@Repository
+public interface ConsultationRepository {
 
 }
