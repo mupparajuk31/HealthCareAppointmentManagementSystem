@@ -1,5 +1,6 @@
 package com.example.healthcare.Repository;
-
-public class UserRepository {
+import org.springframework.stereotype.Repository;
+@Repository
+public interface UserRepository {
 
 }
