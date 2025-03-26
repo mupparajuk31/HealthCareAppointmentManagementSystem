@@ -1,5 +1,6 @@
 package com.example.healthcare.Repository;
-
-public class AvailabilityRepository {
+import org.springframework.stereotype.Repository;
+@Repository
+public interface AvailabilityRepository {
 
 }
